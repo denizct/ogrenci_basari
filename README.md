@@ -1,4 +1,5 @@
 Öğrenci Başarı Tahmin Projesi
+
 Bu proje, öğrenci başarılarını tahmin etmek amacıyla makine öğrenmesi teknikleri kullanarak yapılan bir tahmin modelidir. Proje, çeşitli öğrenci özelliklerini kullanarak gelecekteki başarı puanlarını tahmin etmeyi hedefler.
 
 Kullanılan Yöntemler
