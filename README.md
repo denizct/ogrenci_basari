@@ -15,8 +15,12 @@ Model Değerlendirme: Modelin başarısı, çeşitli metriklerle değerlendirilm
 Kullanılan Kütüphaneler
 
 pickle -  Model ve skaleri kaydetme
+
 scikit-learn - Makine öğrenmesi modelleri ve veri işleme
+
 streamlit - Web arayüzü
 pandas - Veri işleme
+
 numpy - Sayısal hesaplamalar
+
 matplotlib & seaborn - Veri görselleştirme
