@@ -4,4 +4,4 @@ seaborn==0.13.2
 matplotlib==3.9.3
 scikit_learn==1.6.1
 streamlit==1.43.2
-joblib==1.42
+joblib==1.4.2
