@@ -19,6 +19,7 @@ pickle -  Model ve skaleri kaydetme
 scikit-learn - Makine öğrenmesi modelleri ve veri işleme
 
 streamlit - Web arayüzü
+
 pandas - Veri işleme
 
 numpy - Sayısal hesaplamalar
